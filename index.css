@@ -1,0 +1,48 @@
+html {
+    background: #D0D0D0;
+    background-image: url(paper-textures-crumpled-backgrounds-wallpapers.jpg);
+    margin: auto;align-content: center;
+}
+body {
+    font: 85% georgia, sans-serif;
+    line-height: 1;
+    color: #505050;
+}
+div.page-wrapper{
+    margin-left: 1em
+}
+
+h1 {
+    font-family: fantasy, arial, sans-serif;
+    font-size: 10mm;
+    padding-top: 2mm
+}
+
+section#zen-intro {
+    padding:5mm;
+    font-family:monospace, sans-serif;
+    margin-left: -30px;
+    width: 10%;
+    float:left;
+    border: 3px solid #cccccc;
+    background-repeat: no-repeat;
+}
+#zen-intro p {
+    font-family: monospace;
+    font-size: 3mm;
+    color: #383838;
+}
+.supporting {	
+	padding-left: 220px; 
+	}
+
+.sidebar {
+	margin-left: 220px; 
+	}
+.sidebar .wrapper { 
+	font: 12px verdana, sans-serif; 
+	width: 500px; 
+}
+.sidebar li{
+    line-height: 1.35em;
+}
